@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.cdt.launch.launchGroup">
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.0.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.0.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.0.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.0.name" value="PySourceSeparator simcluster.py archstudio4 acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.1.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.1.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.1.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.1.name" value="PySourceSeparator simcluster.py archstudio4 arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.10.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.10.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.10.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.10.name" value="PySourceSeparator simcluster.py bash acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.11.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.11.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.11.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.11.name" value="PySourceSeparator simcluster.py bash arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.12.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.12.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.12.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.12.name" value="PySourceSeparator simcluster.py bash bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.13.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.13.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.13.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.13.name" value="PySourceSeparator simcluster.py bash bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.14.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.14.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.14.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.14.name" value="PySourceSeparator simcluster.py bash directory-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.15.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.15.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.15.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.15.name" value="PySourceSeparator simcluster.py bash limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.16.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.16.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.16.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.16.name" value="PySourceSeparator simcluster.py bash wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.17.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.17.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.17.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.17.name" value="PySourceSeparator simcluster.py bash wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.18.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.18.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.18.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.18.name" value="PySourceSeparator simcluster.py bash z_em"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.19.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.19.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.19.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.19.name" value="PySourceSeparator simcluster.py bash z_uni"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.2.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.2.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.2.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.2.name" value="PySourceSeparator simcluster.py archstudio4 bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.20.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.20.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.20.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.20.name" value="PySourceSeparator simcluster.py hadoop acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.21.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.21.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.21.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.21.name" value="PySourceSeparator simcluster.py hadoop arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.22.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.22.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.22.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.22.name" value="PySourceSeparator simcluster.py hadoop bunch nahc 3"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.23.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.23.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.23.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.23.name" value="PySourceSeparator simcluster.py hadoop bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.24.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.24.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.24.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.24.name" value="PySourceSeparator simcluster.py hadoop limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.25.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.25.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.25.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.25.name" value="PySourceSeparator simcluster.py hadoop package-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.26.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.26.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.26.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.26.name" value="PySourceSeparator simcluster.py hadoop wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.27.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.27.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.27.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.27.name" value="PySourceSeparator simcluster.py hadoop wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.28.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.28.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.28.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.28.name" value="PySourceSeparator simcluster.py hadoop z_em"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.29.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.29.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.29.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.29.name" value="PySourceSeparator simcluster.py hadoop z_uni"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.3.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.3.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.3.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.3.name" value="PySourceSeparator simcluster.py archstudio4 bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.30.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.30.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.30.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.30.name" value="PySourceSeparator simcluster.py linux acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.31.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.31.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.31.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.31.name" value="PySourceSeparator simcluster.py linux directory-based compact"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.32.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.32.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.32.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.32.name" value="PySourceSeparator simcluster.py linux directory-based detailed"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.33.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.33.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.33.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.33.name" value="PySourceSeparator simcluster.py linux flat compact acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.34.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.34.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.34.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.34.name" value="PySourceSeparator simcluster.py linux flat compact arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.35.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.35.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.35.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.35.name" value="PySourceSeparator simcluster.py linux flat compact bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.36.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.36.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.36.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.36.name" value="PySourceSeparator simcluster.py linux flat compact bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.37.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.37.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.37.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.37.name" value="PySourceSeparator simcluster.py linux flat compact limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.38.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.38.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.38.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.38.name" value="PySourceSeparator simcluster.py linux flat compact wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.39.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.39.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.39.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.39.name" value="PySourceSeparator simcluster.py linux flat compact wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.4.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.4.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.4.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.4.name" value="PySourceSeparator simcluster.py archstudio4 limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.40.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.40.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.40.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.40.name" value="PySourceSeparator simcluster.py linux flat detailed acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.41.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.41.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.41.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.41.name" value="PySourceSeparator simcluster.py linux flat detailed arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.42.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.42.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.42.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.42.name" value="PySourceSeparator simcluster.py linux flat detailed bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.43.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.43.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.43.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.43.name" value="PySourceSeparator simcluster.py linux flat detailed bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.44.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.44.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.44.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.44.name" value="PySourceSeparator simcluster.py linux flat detailed limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.45.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.45.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.45.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.45.name" value="PySourceSeparator simcluster.py linux flat detailed wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.46.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.46.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.46.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.46.name" value="PySourceSeparator simcluster.py linux flat detailed wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.47.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.47.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.47.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.47.name" value="PySourceSeparator simcluster.py mozilla flat compact acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.48.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.48.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.48.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.48.name" value="PySourceSeparator simcluster.py mozilla flat compact arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.49.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.49.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.49.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.49.name" value="PySourceSeparator simcluster.py mozilla flat compact bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.5.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.5.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.5.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.5.name" value="PySourceSeparator simcluster.py archstudio4 package-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.50.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.50.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.50.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.50.name" value="PySourceSeparator simcluster.py mozilla flat compact bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.51.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.51.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.51.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.51.name" value="PySourceSeparator simcluster.py mozilla flat compact directory-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.52.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.52.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.52.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.52.name" value="PySourceSeparator simcluster.py mozilla flat compact limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.53.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.53.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.53.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.53.name" value="PySourceSeparator simcluster.py mozilla flat compact wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.54.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.54.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.54.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.54.name" value="PySourceSeparator simcluster.py mozilla flat compact wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.55.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.55.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.55.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.55.name" value="PySourceSeparator simcluster.py mozilla flat detailed acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.56.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.56.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.56.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.56.name" value="PySourceSeparator simcluster.py mozilla flat detailed arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.57.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.57.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.57.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.57.name" value="PySourceSeparator simcluster.py mozilla flat detailed bunch nahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.58.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.58.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.58.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.58.name" value="PySourceSeparator simcluster.py mozilla flat detailed bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.59.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.59.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.59.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.59.name" value="PySourceSeparator simcluster.py mozilla flat detailed directory-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.6.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.6.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.6.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.6.name" value="PySourceSeparator simcluster.py archstudio4 wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.60.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.60.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.60.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.60.name" value="PySourceSeparator simcluster.py mozilla flat detailed limbo"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.61.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.61.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.61.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.61.name" value="PySourceSeparator simcluster.py mozilla flat detailed wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.62.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.62.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.62.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.62.name" value="PySourceSeparator simcluster.py mozilla flat detailed wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.63.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.63.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.63.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.63.name" value="PySourceSeparator simcluster.py oodt acdc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.64.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.64.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.64.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.64.name" value="PySourceSeparator simcluster.py oodt arc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.65.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.65.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.65.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.65.name" value="PySourceSeparator simcluster.py oodt bunch nahc 2"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.66.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.66.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.66.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.66.name" value="PySourceSeparator simcluster.py oodt bunch sahc"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.67.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.67.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.67.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.67.name" value="PySourceSeparator simcluster.py oodt package-based"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.68.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.68.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.68.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.68.name" value="PySourceSeparator simcluster.py oodt wca uem"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.69.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.69.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.69.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.69.name" value="PySourceSeparator simcluster.py oodt wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.7.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.7.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.7.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.7.name" value="PySourceSeparator simcluster.py archstudio4 wca uemnm"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.70.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.70.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.70.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.70.name" value="PySourceSeparator simcluster.py oodt z_em"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.71.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.71.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.71.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.71.name" value="PySourceSeparator simcluster.py oodt z_uni"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.8.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.8.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.8.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.8.name" value="PySourceSeparator simcluster.py archstudio4 z_em"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.9.action" value="NONE"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.9.enabled" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.9.mode" value="run"/>
+<stringAttribute key="org.eclipse.cdt.launch.launchGroup.9.name" value="PySourceSeparator simcluster.py archstudio4 z_uni"/>
+</launchConfiguration>
